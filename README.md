@@ -1,4 +1,4 @@
 # Titanic
 Solution for the 'Titanic' case
 
-Вся информация об используемых библиотеках и версиях в файле environment.yml
+All information about used libraries and versions in the file environment.yml
